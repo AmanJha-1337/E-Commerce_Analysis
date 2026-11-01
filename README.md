@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Amazon EDA
+# 🛒 E-Commerce Project
 
 This project focuses on **Exploratory Data Analysis (EDA)** of Amazon e-commerce data to uncover insights about products, pricing, ratings, and customer behavior.
 
